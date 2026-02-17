@@ -19,3 +19,10 @@ A simple end-to-end Computer Vision project that detects plant leaf diseases fro
 python3 -m venv .venv
 source .venv/bin/activate
  
+## 📸 App Screenshots
+
+### Upload Page
+![Upload](images/upload.png)
+
+### Prediction Result
+![Result](images/result.png)
