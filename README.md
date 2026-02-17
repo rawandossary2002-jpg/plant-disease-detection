@@ -15,14 +15,18 @@ A simple end-to-end Computer Vision project that detects plant leaf diseases fro
 ## 🚀 Run Locally
 
 ### 1) Create & activate virtual environment
-```bash
+```markdown
+## 🚀 Run Locally
+
+### 1) Create & activate virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
- 
+
+
 ## 📸 App Screenshots
 
 ### Upload Page
 ![Upload](images/upload.png)
 
 ### Prediction Result
-![Result](images/result.png)
+![Result](images/result.png) 
